@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#fon{
+    height: 99vh;
+}
+.imgfon {
+    height: 100%;
+}
+.imgfonus{
+    max-height: 100%;
+    max-width: 100%;
+    position: absolute;
+}
+
+#fonusov{
+    max-height: 100%;
+    max-width: 100%;
+}
+#col1,#col2,#col3,#col4,#col5{
+    height: 100%;
+}
+.yach{
+    height: 33%;
+}
+.usy{
+    position: absolute;
+    z-index: 2;
+}
+#finish{
+    height: 99vh;
+    text-align: center;
+    display: none;
+}
+#finishimg{
+    max-width: 100%;
+    max-height: 100%;
+}
